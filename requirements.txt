@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+opencv-python-headless
+pytesseract
+fuzzywuzzy
+python-Levenshtein
